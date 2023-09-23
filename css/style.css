@@ -351,7 +351,7 @@ header nav ul {
         display: block;
         position: absolute;
         left: 0;
-        top: calc(100% + 4.5px);
+        top: calc(100% + 1.5px);
         width: 100%;
         border-radius: 10px;
         -webkit-border-radius: 10px;
