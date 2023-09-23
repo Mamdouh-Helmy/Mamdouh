@@ -96,6 +96,11 @@ label{
 /*         margin-top:  -8px; */
     }
 }
+@media (max-width: 376px){
+    label{
+        margin-top:  -13px;
+    }
+}
 .dark label{
     border-left: 2px solid #97a2de;
 }
