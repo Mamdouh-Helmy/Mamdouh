@@ -83,7 +83,6 @@ header .container .click{
 @media (max-width: 767px){
     header .container .click{
         height: 0;
-        margin-bottom: 20px;
     }
 }
 label{
@@ -105,9 +104,17 @@ label{
         margin-left: 0;
     }
 }
+@media (max-width: 767px){
+    label{
+        margin-bottom: 10px;
+    }
+}
 label .toggle-checkbox{
     appearance: none;
     -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
     display: flex;
     align-items: center;
     margin: auto 0;
