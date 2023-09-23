@@ -80,6 +80,11 @@ label{
     display: flex;
     align-items: center;
 }
+@media (max-width: 415px){
+    label{
+        height: 0;
+    }
+}
 label .toggle-checkbox{
     appearance: none;
     -webkit-appearance: none;
