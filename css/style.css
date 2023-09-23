@@ -93,6 +93,7 @@ label{
     label{
         border-left: none;
         margin-left: 0;
+        margin-bottom: 30px;
     }
 }
 .dark label{
@@ -102,11 +103,6 @@ label{
     .dark label{
         border-left: none;
         margin-left: 0;
-    }
-}
-@media (max-width: 767px){
-    label{
-        margin-bottom: 30px;
     }
 }
 label .toggle-checkbox{
