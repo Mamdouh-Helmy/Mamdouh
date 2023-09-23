@@ -106,7 +106,7 @@ label{
 }
 @media (max-width: 767px){
     label{
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 }
 label .toggle-checkbox{
@@ -320,6 +320,7 @@ header .container h5{
 @media (max-width: 415px){
     header .container h5{
         font-size: 14px;
+         margin-top: 4px;
     }
 }
 header nav {
