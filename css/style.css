@@ -114,7 +114,7 @@ label .toggle-switch{
     position: relative;
     cursor: pointer;
 }
-@media (max-width: 415px){
+@media (max-width: 767px){
     label .toggle-switch{
         width: 76px;
         height: 26px;
@@ -141,7 +141,7 @@ label .toggle-switch::before{
     -ms-transition: 0.3s;
     -o-transition: 0.3s;
 }
-@media (max-width: 415px){
+@media (max-width: 767px){
     label .toggle-switch::before{
         width: 20px;
         height: 20px;
@@ -290,10 +290,6 @@ header .container h5{
 @media (max-width: 767px){
     header .container h5{
         height: 32px;
-    }
-}
-@media (max-width: 415px){
-    header .container h5{
         font-size: 14px;
     }
 }
