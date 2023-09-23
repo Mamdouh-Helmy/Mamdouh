@@ -106,7 +106,7 @@ label{
 }
 @media (max-width: 767px){
     label{
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 }
 label .toggle-checkbox{
