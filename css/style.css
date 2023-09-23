@@ -1319,17 +1319,6 @@ header .container ul li a:hover::before{
 @media (max-width: 1313px){
     .education .container ul li{
         width: 100%;
-        margin-left: 0;
-    }
-}
-@media (max-width: 767px){
-    .education .container ul li{
-        width: 280px;
-    }
-}
-@media (max-width: 415px){
-    .education .container ul > li{
-        width: 200px;
         margin: 0 auto 20px;
     }
 }
