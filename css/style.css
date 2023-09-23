@@ -79,6 +79,7 @@ header .container .click{
     height: 72px;
     display: flex;
     align-items: center;
+    margin-bottom: 5px;
 }
 @media (max-width: 767px){
     header .container .click{
