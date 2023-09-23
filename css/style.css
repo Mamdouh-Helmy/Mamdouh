@@ -257,7 +257,7 @@ h2::after{
     background-color: #1c1b1b;
 }
 .dark header .container ul li:hover{
-    background-color: #1e1e1e;
+    background-color: #1e1e1e15;
 }
 .dark header .container ul li a{
     color: #97a2de;
