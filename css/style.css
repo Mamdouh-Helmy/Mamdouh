@@ -1855,7 +1855,7 @@ header .container ul li a:hover::before{
 .Contact .container .box-1 form input[type="number"],
 .Contact .container .box-1 form textarea{
     padding: 20px;
-    width: 400px;
+    width: 90%;
     border: 1px solid #e2e8ec;
     margin-bottom: 30px;
     background: linear-gradient(145deg, #e2e8ec, #ffffff);
@@ -1865,22 +1865,6 @@ header .container ul li a:hover::before{
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
-}
-@media (max-width: 767px){
-    .Contact .container .box-1 form input[type="text"],
-    .Contact .container .box-1 form input[type="email"],
-    .Contact .container .box-1 form input[type="number"],
-    .Contact .container .box-1 form textarea{
-    width: 500px;
-}
-}
-@media (max-width: 560px){
-    .Contact .container .box-1 form input[type="text"],
-    .Contact .container .box-1 form input[type="email"],
-    .Contact .container .box-1 form input[type="number"],
-    .Contact .container .box-1 form textarea{
-    width: 200px;
-}
 }
 .Contact .container .box-1 form textarea{
     resize: none;
