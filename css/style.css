@@ -309,14 +309,12 @@ header .container h5{
 }
 @media (max-width: 767px){
     header .container h5{
-        height: 0;
-        margin-top: 0;
+        height: 32px;
     }
 }
 @media (max-width: 415px){
     header .container h5{
         font-size: 14px;
-         margin-top: 4px;
     }
 }
 header nav {
